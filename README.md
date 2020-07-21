@@ -1,6 +1,6 @@
-# Kaggle Notebooks
+# Jupyter Notebooks
 Hello User,
-I am a Kaggle Notebook Master. You can learn to plot, make intelligent models and many more with my Notebooks. I have explained codes and work as well using Jupyter Markdown.
+I am a Kaggle Notebook Master. You can learn to plot, make intelligent models and many more with my Notebooks. I have explained codes and work as well using Jupyter Markdown. All source code are available on GitHub as well as on Kaggle. Please use Linke provided below for Data.
 
 ![](https://expertsystem.com/wp-content/uploads/2017/03/machine-learning-definition.jpeg)
 
