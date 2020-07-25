@@ -40,4 +40,22 @@ Multivariate analysis is based on the principles of multivariate statistics, whi
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/multivariate-statistical-analysis-on-diabetes) - Multivariate Statistical Tutorial
 
+## 7. COVID19 India Report (EDA + Statistical Test)
+
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
+
+* [Open Notebook](kaggle.com/ravichaubey1506/covid19-india-report-eda-statistical-test) - COVID19 India Report (EDA + Statistical Test)
+
+## 8. Univariate Statistical Analysis on Diabetes
+
+Univariate analysis is perhaps the simplest form of statistical analysis. Like other forms of statistics, it can be inferential or descriptive. The key fact is that only one variable is involved. Univariate analysis can yield misleading results in cases in which multivariate analysis is more appropriate.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/univariate-statistical-analysis-on-diabetes) - Univariate Statistical Analysis
+
+## 9. Learn Wide Deep Neural Network!!
+
+Wide & Deep Neural Network is an interesting new model architecture for ranking & recommendation, developed by Google Research. It uses Logistic Regression & Deep Learning in a single model.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/learn-wide-deep-neural-network) - Wide and Deep NN
+
 `Adding More Notebooks Soon... Thank you...`
