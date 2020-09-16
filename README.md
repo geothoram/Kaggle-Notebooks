@@ -58,4 +58,4 @@ Wide & Deep Neural Network is an interesting new model architecture for ranking 
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/learn-wide-deep-neural-network) - Wide and Deep NN
 
-`Adding More Notebooks Soon... Thank you...`
+`Adding Other Notebooks Soon... Thank you...`
