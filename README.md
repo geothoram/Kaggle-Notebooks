@@ -1,6 +1,8 @@
-# Jupyter Notebooks
+# Introduction
 Hello User,
 I am a Kaggle Notebook Master. You can learn to plot, make intelligent models and many more with my Notebooks. I have explained codes and work as well using Jupyter Markdown. All source code are available on GitHub as well as on Kaggle. Please use Linke provided below for Data.
+
+`This repo contains projects from wide variety of field including Machine Learning, Deep Learning, Business Intelligent , Big Data Analytics and Many more.`
 
 ![](https://expertsystem.com/wp-content/uploads/2017/03/machine-learning-definition.jpeg)
 
@@ -57,5 +59,11 @@ Univariate analysis is perhaps the simplest form of statistical analysis. Like o
 Wide & Deep Neural Network is an interesting new model architecture for ranking & recommendation, developed by Google Research. It uses Logistic Regression & Deep Learning in a single model.
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/learn-wide-deep-neural-network) - Wide and Deep NN
+
+## 10. (99% Acc.) Inception V3 on Rock, Paper & Scissor
+
+I will use PreTrained Model Inception Netowrk to train my model. Off Course because we need to go deeper :) Inceptionv3 is a convolutional neural network for assisting in image analysis and object detection, and got its start as a module for Googlenet. It is the third edition of Google's Inception Convolutional Neural Network, originally introduced during the ImageNet Recognition Challenge. Just as ImageNet can be thought of as a database of classified visual objects, Inception helps classification of objects in the world of computer vision. One such use is in life sciences, where it aids in the research of Leukemia. It was "codenamed 'Inception' after the film of the same name".
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/99-acc-inception-v3-on-rock-paper-scissor) - Inception V3 on Rock, Paper & Scissor
 
 `Adding Other Notebooks Soon... Thank you...`
