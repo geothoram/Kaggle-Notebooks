@@ -64,6 +64,10 @@ Wide & Deep Neural Network is an interesting new model architecture for ranking 
 
 I will use PreTrained Model Inception Netowrk to train my model. Off Course because we need to go deeper :) Inceptionv3 is a convolutional neural network for assisting in image analysis and object detection, and got its start as a module for Googlenet. It is the third edition of Google's Inception Convolutional Neural Network, originally introduced during the ImageNet Recognition Challenge. Just as ImageNet can be thought of as a database of classified visual objects, Inception helps classification of objects in the world of computer vision. One such use is in life sciences, where it aids in the research of Leukemia. It was "codenamed 'Inception' after the film of the same name".
 
-* [Open Notebook](https://www.kaggle.com/ravichaubey1506/99-acc-inception-v3-on-rock-paper-scissor) - Inception V3 on Rock, Paper & Scissor
+## 11. Time Series Descriptive Statistics and Tests
+
+There are different forecasting models like ARMA, ARIMA, Seasonal ARIMA and others. Each model addresses a different type of time series. For this reason, in order to select an appropriate model we need to know something about the data.In this section we'll learn how to determine if a time series is stationary, if it's independent, and if two series demonstrate correlation and/or causality.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/time-series-descriptive-statistics-and-tests) - Time Series Descriptive Statistics and Tests
 
 `Adding Other Notebooks Soon... Thank you...`
