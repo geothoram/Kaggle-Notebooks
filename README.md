@@ -70,4 +70,11 @@ There are different forecasting models like ARMA, ARIMA, Seasonal ARIMA and othe
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/time-series-descriptive-statistics-and-tests) - Time Series Descriptive Statistics and Tests
 
+## 12. Extracting Dominant Color of an Image
+
+Clustering is used in much real-world application, one such real-world example of clustering is extracting dominant colors from an image.
+Any image consists of pixels, each pixel represents a dot in an image. A pixel contains three values and each value ranges between 0 to 255, representing the amount of red, green and blue components. The combination of these forms an actual color of the pixel. To find the dominant colors, the concept of the k-means clustering is used. One important use of k-means clustering is to segment satellite images to identify surface features.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/extracting-dominant-color-of-an-image) - Extracting Dominant Color of an Image
+
 `Adding Other Notebooks Soon... Thank you...`
