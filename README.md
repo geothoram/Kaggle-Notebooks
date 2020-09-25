@@ -72,7 +72,8 @@ There are different forecasting models like ARMA, ARIMA, Seasonal ARIMA and othe
 
 ## 12. Extracting Dominant Color of an Image
 
-We have to find dominant color in a given image. I will be using an unsupervised learning algorithm (K-Means Clustering).
+Clustering is used in much real-world application, one such real-world example of clustering is extracting dominant colors from an image.
+Any image consists of pixels, each pixel represents a dot in an image. A pixel contains three values and each value ranges between 0 to 255, representing the amount of red, green and blue components. The combination of these forms an actual color of the pixel. To find the dominant colors, the concept of the k-means clustering is used. One important use of k-means clustering is to segment satellite images to identify surface features.
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/extracting-dominant-color-of-an-image) - Extracting Dominant Color of an Image
 
