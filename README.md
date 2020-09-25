@@ -70,4 +70,10 @@ There are different forecasting models like ARMA, ARIMA, Seasonal ARIMA and othe
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/time-series-descriptive-statistics-and-tests) - Time Series Descriptive Statistics and Tests
 
+## 12. Extracting Dominant Color of an Image
+
+We have to find dominant color in a given image. I will be using an unsupervised learning algorithm (K-Means Clustering).
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/extracting-dominant-color-of-an-image) - Extracting Dominant Color of an Image
+
 `Adding Other Notebooks Soon... Thank you...`
