@@ -77,4 +77,10 @@ Any image consists of pixels, each pixel represents a dot in an image. A pixel c
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/extracting-dominant-color-of-an-image) - Extracting Dominant Color of an Image
 
-`Adding Other Notebooks Soon... Thank you...`
+## 13. Facebook Prophet, RNN and EWMA on COVID19 IND
+
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. In this notebook i will explain time series analysis to forecast cofirmed cases and analye different aspect of COVID19 in INDIA.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/facebook-prophet-rnn-and-ewma-on-covid19-ind) - Facebook Prophet, RNN and EWMA on COVID19 IND
+
+`Adding one Notebook Daily... Thank you...`
