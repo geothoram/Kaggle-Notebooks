@@ -83,4 +83,14 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/facebook-prophet-rnn-and-ewma-on-covid19-ind) - Facebook Prophet, RNN and EWMA on COVID19 IND
 
+## 14. End to End Machine Learning !!!
+
+The California Housing Prices dataset from the StatLib repository.This dataset was based on data from the 1990 California cen‐ sus.
+
+  `Here are the main steps you will go through:`
+
+Get the data.,Discover and visualize the data to gain insights,Prepare the data for Machine Learning algorithms,Select a model and train it,Fine-tune your model, Present your solution, Launch, monitor, and maintain your system.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/end-to-end-machine-learning) - End to End Machine Learning !!!
+
 `Adding one Notebook Daily... Thank you...`
