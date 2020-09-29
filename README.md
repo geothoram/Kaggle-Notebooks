@@ -89,19 +89,19 @@ The California Housing Prices dataset from the StatLib repository.This dataset w
 
   `Here are the main steps you will go through:`
 
-  I.Get the data.
+  **I.** Get the data.
 
-  II.Discover and visualize the data to gain insights.
+  **II.** Discover and visualize the data to gain insights.
 
-  III.Prepare the data for Machine Learning algorithms.
+  **III.** Prepare the data for Machine Learning algorithms.
 
-  IV.Select a model and train it.
+  **IV.** Select a model and train it.
 
-  V.Fine-tune your model.
+  **V.** Fine-tune your model.
 
-  VI.Present your solution.
+  **VI.** Present your solution.
 
-  VII.Launch, monitor, and maintain your system.
+  **VII.** Launch, monitor, and maintain your system.
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/end-to-end-machine-learning) - End to End Machine Learning !!!
 
