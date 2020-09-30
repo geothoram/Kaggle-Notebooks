@@ -91,6 +91,12 @@ The California Housing Prices dataset from the StatLib repository.This dataset w
 
 Get the data.,Discover and visualize the data to gain insights,Prepare the data for Machine Learning algorithms,Select a model and train it,Fine-tune your model, Present your solution, Launch, monitor, and maintain your system.
 
-* [Open Notebook](https://www.kaggle.com/ravichaubey1506/end-to-end-machine-learning) - End to End Machine Learning !!!
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/end-to-end-machine-learning) - End to End Machine Learning !!!.
+
+## 15. Mall Customer Segmentation
+
+This data contain informations about customers of a Mall.There is 200 Observations of 5 Variable. Name of Variables are:-'CustomerID' 'Gender' 'Age' 'Annual.Income..k..' 'Spending.Score..1.100.' DataTypes of Datas are Integere or Factor.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/mall-customer-segmentation) - Mall Customer Segmentation
 
 `Adding one Notebook Daily... Thank you...`
