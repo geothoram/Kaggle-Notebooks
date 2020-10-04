@@ -99,7 +99,7 @@ This data contain informations about customers of a Mall.There is 200 Observatio
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/mall-customer-segmentation) - Mall Customer Segmentation
 
-## 15. PostGraduate Admission Analysis
+## 16. PostGraduate Admission Analysis
 
 This dataset contains information or Criteria of Post Graduate Admissions from an Indian perspective. The dataset contains several parameters which are considered important during the application for Masters Programs.
 
