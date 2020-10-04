@@ -111,13 +111,7 @@ There is 284807 observation of 31 variable. Class is target variable where as ot
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/reshampling-credit-card-data) - Reshampling Credit Card Data
 
-## 18. Reshampling Credit Card Data
-
-There is 284807 observation of 31 variable. Class is target variable where as others are predictor variable. Information given in data is sesitive so i think data has been preprocessed with technique such as PCA or Factor Analysis, So we need not to put extra effort on Data Cleaning and Wrangling. Out of 284807 only 492 observations are detected Fraud so this data is highly imbalanced we will use different sampling technique to increase accuracy.
-
-* [Open Notebook](https://www.kaggle.com/ravichaubey1506/reshampling-credit-card-data) - Reshampling Credit Card Data
-
-## 19. Cardiovascular Disease Analysis
+## 18. Cardiovascular Disease Analysis
 
 This data contain infromation related to factor responsible for Heart Attack.We need to analyse the trends in heart data to predict certain cardiovascular events or find any clear indications of heart health. We will build Logistic Regression Machine Learning Model to predict future event.
 
