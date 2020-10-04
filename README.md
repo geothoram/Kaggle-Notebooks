@@ -117,4 +117,12 @@ This data contain infromation related to factor responsible for Heart Attack.We 
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/cardiovascular-disease-analysis) - Cardiovascular Disease Analysis
 
+## 19. Speed Up Your Neural Network!!
+
+If you need to tackle a very complex problem, such as detecting hundreds of types of objects in high-resolution images? You may need to train a much deeper DNN, perhaps with (say) 10 layers, each containing hundreds of neurons, connected by hundreds of thousands of connections. First, you would be faced with the tricky vanishing gradients problem (or the related exploding gradients problem) that affects deep neural networks and makes lower layers very hard to train. Second, with such a large network, training would be extremely slow. Third, a model with millions of parameters would severely risk overfitting the training set.
+
+**In this Notebook, I will go through each of these problems in turn and present techniques to solve them.**
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/speed-up-your-neural-network) - Speed Up Your Neural Network!!
+
 `Adding one Notebook Daily... Thank you...`
