@@ -125,4 +125,20 @@ If you need to tackle a very complex problem, such as detecting hundreds of type
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/speed-up-your-neural-network) - Speed Up Your Neural Network!!
 
-`Adding one Notebook Daily... Thank you...`
+## 20. Machine Learning at Scale with PySpark
+
+PySpark is a Python API for Spark released by the Apache Spark community to support Python with Spark. Using PySpark, one can easily integrate and work with RDDs in Python programming language too. There are numerous features that make PySpark such an amazing framework when it comes to working with huge datasets. Whether it is to perform computations on large datasets or to just analyze them, Data Engineers are switching to this tool.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/machine-learning-at-scale-with-pyspark) - Machine Learning at Scale with PySpark
+
+## 21. Student Performance Correlation
+
+A correlation coefficient is a numerical measure of some type of correlation, meaning a statistical relationship between two variables. The variables may be two columns of a given data set of observations, often called a sample, or two components of a multivariate random variable with a known distribution.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/student-performance-correlation) - Student Performance Correlation
+
+## 22. Essential Numpy
+
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/essential-numpy) - Essential Numpy
