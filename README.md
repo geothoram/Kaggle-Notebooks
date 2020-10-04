@@ -111,16 +111,34 @@ There is 284807 observation of 31 variable. Class is target variable where as ot
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/reshampling-credit-card-data) - Reshampling Credit Card Data
 
-## 18. Reshampling Credit Card Data
-
-There is 284807 observation of 31 variable. Class is target variable where as others are predictor variable. Information given in data is sesitive so i think data has been preprocessed with technique such as PCA or Factor Analysis, So we need not to put extra effort on Data Cleaning and Wrangling. Out of 284807 only 492 observations are detected Fraud so this data is highly imbalanced we will use different sampling technique to increase accuracy.
-
-* [Open Notebook](https://www.kaggle.com/ravichaubey1506/reshampling-credit-card-data) - Reshampling Credit Card Data
-
-## 19. Cardiovascular Disease Analysis
+## 18. Cardiovascular Disease Analysis
 
 This data contain infromation related to factor responsible for Heart Attack.We need to analyse the trends in heart data to predict certain cardiovascular events or find any clear indications of heart health. We will build Logistic Regression Machine Learning Model to predict future event.
 
 * [Open Notebook](https://www.kaggle.com/ravichaubey1506/cardiovascular-disease-analysis) - Cardiovascular Disease Analysis
 
-`Adding one Notebook Daily... Thank you...`
+## 19. Speed Up Your Neural Network!!
+
+If you need to tackle a very complex problem, such as detecting hundreds of types of objects in high-resolution images? You may need to train a much deeper DNN, perhaps with (say) 10 layers, each containing hundreds of neurons, connected by hundreds of thousands of connections. First, you would be faced with the tricky vanishing gradients problem (or the related exploding gradients problem) that affects deep neural networks and makes lower layers very hard to train. Second, with such a large network, training would be extremely slow. Third, a model with millions of parameters would severely risk overfitting the training set.
+
+**In this Notebook, I will go through each of these problems in turn and present techniques to solve them.**
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/speed-up-your-neural-network) - Speed Up Your Neural Network!!
+
+## 20. Machine Learning at Scale with PySpark
+
+PySpark is a Python API for Spark released by the Apache Spark community to support Python with Spark. Using PySpark, one can easily integrate and work with RDDs in Python programming language too. There are numerous features that make PySpark such an amazing framework when it comes to working with huge datasets. Whether it is to perform computations on large datasets or to just analyze them, Data Engineers are switching to this tool.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/machine-learning-at-scale-with-pyspark) - Machine Learning at Scale with PySpark
+
+## 21. Student Performance Correlation
+
+A correlation coefficient is a numerical measure of some type of correlation, meaning a statistical relationship between two variables. The variables may be two columns of a given data set of observations, often called a sample, or two components of a multivariate random variable with a known distribution.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/student-performance-correlation) - Student Performance Correlation
+
+## 22. Essential Numpy
+
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+* [Open Notebook](https://www.kaggle.com/ravichaubey1506/essential-numpy) - Essential Numpy
